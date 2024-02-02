@@ -1,9 +1,7 @@
 # AtliQ Mart Supply Chain Analysis
 As part of the October month codebaiscs resume challenge, I have performed data analysis and designed a dashboard in Power BI
 
-Live Dashboard [Link](https://www.novypro.com/project/atliq-mart---supply-chain-analysis)
-
-Presentation Video [Link](https://www.linkedin.com/posts/naveen-s6_codebasicsresumechallenge-storytellingwithdata-activity-6990178185162227712-jV9h)
+Live Dashboard [Link](https://www.novypro.com/project/atliq-mart-supply-chain-2)
 
 ## Problem statement
 
@@ -26,13 +24,13 @@ Create relevant insights that are not provided in the metric list/stakeholder me
 ## Data Model 
 
 <p align="center">
-  <img src="https://github.com/Naveen-S6/AtliQ_Mart_Supply_Chain_Analysis/blob/main/resources/data_model.png" height="400">
+  <img src="https://github.com/sofiyan-smasher/Power_BI_AtliQ_Mart_SC/blob/main/Dump/data_model.png" height="400">
 </p>
 
 ## Dashboard 
 
 <p align="center">
-  <img src="https://github.com/Naveen-S6/AtliQ_Mart_Supply_Chain_Analysis/blob/main/resources/Dashboard.jpg" width="300">
+  <img src="https://github.com/sofiyan-smasher/Power_BI_AtliQ_Mart_SC/blob/main/Dashboard.png" width="300">
 </p>
 
 ## Some Major Insights 
